@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ac2f4a08-9098-4af5-a640-187588d2e4b0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/pythonProject2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Divya/count duplicate elements from the list and unique elements list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Divya/factorial of a list of numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Divya/for loop with child loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Divya/imp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Divya/list raw input.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Divya/reverse list using pop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Divya/single for loop with range.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Divya/single for loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Divya/square using raw input.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exceptions/exception1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exceptions/exception2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exceptions/exception3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exceptions/exception4_using func.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exceptions/exception5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exceptions/exceptions_files.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/abc.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/check file operations through exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/closing the file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/def.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/foo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/read a file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/read characters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/readline.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/write and close a file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/xyz.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPS/Constructor/constructor1 data variable declaration.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPS/Data encapsulation and abstraction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPS/classes and Methods/Method1-Instance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPS/classes and Methods/Method2-static.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPS/classes and Methods/class ex with out class variables and without method1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPS/classes and Methods/class example2 with user input as dynamic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPS/classes and Methods/class obj data members intro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPS/classes and Methods/class3-declaring variable at class level.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for loops double print/range -1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for loops double print/sort pract.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for loops double print/use range and element for loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loops/double loop using range4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loops/pgm5 -doubleloop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loops/print eleements using range-3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loops/range using first loop in inside loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loops/range.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/num pgms1/perfect num or not.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2lGuKscHwAiiSiJDYvFzeFRViW9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Method1-Instance.executor": "Run",
+    "Python.check file operations through exceptions.executor": "Run",
+    "Python.class ex with out class variables and without method.executor": "Run",
+    "Python.class example2 with user input as dynamic.executor": "Run",
+    "Python.class obj data members intro.executor": "Run",
+    "Python.class3-declaring variable at class level.executor": "Run",
+    "Python.closing the file.executor": "Run",
+    "Python.constructor1 data variable declaration.executor": "Run",
+    "Python.constructor1.executor": "Run",
+    "Python.count duplicate elements from the list and unique elements list.executor": "Run",
+    "Python.double loop using range.executor": "Run",
+    "Python.exception1.executor": "Run",
+    "Python.exception2.executor": "Run",
+    "Python.exception3.executor": "Run",
+    "Python.exception4.executor": "Run",
+    "Python.exception5.executor": "Run",
+    "Python.factorial of a list of numbers.executor": "Run",
+    "Python.for loop with child loops.executor": "Run",
+    "Python.imp.executor": "Run",
+    "Python.int_1.executor": "Run",
+    "Python.list raw input.executor": "Run",
+    "Python.perfect num or not.executor": "Run",
+    "Python.pgm5 -doubleloop.executor": "Run",
+    "Python.print eleements using range-3.executor": "Run",
+    "Python.range -1.executor": "Run",
+    "Python.range using first loop in inside loop.executor": "Run",
+    "Python.range.executor": "Run",
+    "Python.read a file.executor": "Run",
+    "Python.readline.executor": "Run",
+    "Python.reverse list using pop.executor": "Run",
+    "Python.single for loop with range.executor": "Run",
+    "Python.single for loop.executor": "Run",
+    "Python.sort pract.executor": "Run",
+    "Python.square using raw input.executor": "Run",
+    "Python.use range and element for loop.executor": "Run",
+    "Python.write a file.executor": "Run",
+    "Python.write and close a file.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-975db3bf15a3-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18034.82" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac2f4a08-9098-4af5-a640-187588d2e4b0" name="Changes" comment="" />
+      <created>1724818674145</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724818674145</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/loops/range using first loop in inside loop.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/num pgms1/perfect num or not.py</url>
+          <line>60</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
